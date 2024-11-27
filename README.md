@@ -1,6 +1,6 @@
 Project Cleaning Room Rest API
 
-Project uses Java 11 , maven 3.9.5 and Spring Boot
+Project uses Java 17 , maven 3.9.5 and Spring Boot
 
 
 1. in order to build the application and also run the tests use the following command
